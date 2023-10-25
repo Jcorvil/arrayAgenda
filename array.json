@@ -181,7 +181,7 @@
     },
     {
       "gender": "female",
-      "name": { "title": "Mrs", "first": "José", "last": "Lorenzo" },
+      "name": { "title": "Mrs", "first": "Maria", "last": "Lorenzo" },
       "location": {
         "street": { "number": 544, "name": "Calle del Prado" },
         "city": "Vitoria",
@@ -191,7 +191,7 @@
         "coordinates": { "latitude": "17.3529", "longitude": "-147.6935" },
         "timezone": { "offset": "-10:00", "description": "Hawaii" }
       },
-      "email": "jose.lorenzo@example.com",
+      "email": "maria.lorenzo@example.com",
       "login": {
         "uuid": "bf1a6823-cc7f-4fbe-87b2-9df71bafc5f6",
         "username": "heavytiger632",
